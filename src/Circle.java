@@ -1,4 +1,4 @@
-public class Circle extends Shape implements Resizeable{
+public class Circle extends Shape{
     double radius;
     private static final double PI  = 3.14;
     public Circle() {
